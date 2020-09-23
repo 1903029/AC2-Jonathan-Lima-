@@ -16,7 +16,7 @@
 
 ------------------------------
 
-Qual desses clubes foi fundado em 1 de setembro de 1910 ?
+Qual desses clubes foi **fundado** em 1 de setembro de  1910 ?
 
 -  [ ] 1 Flamengo
 -  [x] 2 Corinthians
@@ -29,6 +29,17 @@ Qual desses clubes foi fundado em 1 de setembro de 1910 ?
 O conteúdo  está ficando muito bom :smile:
 
 Para mais informações sobre a torcida de seu clube clique  [AQUI.](https://pt.wikipedia.org/wiki/Lista_das_maiores_torcidas_de_futebol_do_Brasil)
+
+#LINKS
+
+[CORINTHIANS](https://www.fieltorcedor.com.br)
+
+[FLAMENGO](https://www.nrnoficial.com.br)
+
+[SÃO PAULO](https://www.sociotorcedor.com.br/)
+
+
+
 
 
 
