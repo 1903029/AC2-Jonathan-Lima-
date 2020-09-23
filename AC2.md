@@ -30,7 +30,7 @@ O conteúdo  está ficando muito bom :smile:
 
 Para mais informações sobre a torcida de seu clube clique  [AQUI.](https://pt.wikipedia.org/wiki/Lista_das_maiores_torcidas_de_futebol_do_Brasil )
 
-#Seja Sócio Torcedor
+SEJA SÓCIO TORCEDOR 
 
 [CORINTHIANS](https://www.fieltorcedor.com.br)
 
