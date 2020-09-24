@@ -24,7 +24,7 @@ Qual desses clubes foi **fundado** em 1 de setembro de  1910 ?
 
 ------------------------------
 
-![ Logo do Corinthians](https://images.app.goo.gl/bYvf4LfgCYJT7Xv29)
+![ Logo do Corinthians](https://images.app.goo.gl/bYvf4LfgCYJT7Xv29.jpg)
 
 O conteúdo  está ficando muito bom :smile:
 
